@@ -1,0 +1,9 @@
+{
+        'title': 'Lập trình Mobile',
+        'content': 'Ứng dụng Notes cơ bản bằng Flutter và Dart',
+        'priority': '3',
+        'createdAt': DateTime.now().toIso8601String(),
+        'modifiedAt': DateTime.now().toIso8601String(),
+        'tags': 'Flutter,Mobile,Dart',
+        'color': '#faebd7',
+      },
